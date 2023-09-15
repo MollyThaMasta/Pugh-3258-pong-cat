@@ -513,7 +513,7 @@ GameObject:
   - component: {fileID: 547324611}
   m_Layer: 0
   m_Name: leftScore2
-  m_TagString: leftScore
+  m_TagString: leftScore2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2817,7 +2817,7 @@ GameObject:
   - component: {fileID: 1950834904}
   m_Layer: 0
   m_Name: rightScore2
-  m_TagString: rightScore
+  m_TagString: rightScore2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
