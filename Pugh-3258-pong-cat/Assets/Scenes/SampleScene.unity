@@ -303,7 +303,7 @@ GameObject:
   - component: {fileID: 272866142}
   m_Layer: 0
   m_Name: rightScore
-  m_TagString: Untagged
+  m_TagString: rightScore
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -408,7 +408,7 @@ GameObject:
   - component: {fileID: 414363664}
   m_Layer: 0
   m_Name: leftScore
-  m_TagString: Untagged
+  m_TagString: leftScore
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
